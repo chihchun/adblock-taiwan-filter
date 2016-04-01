@@ -1,0 +1,16 @@
+! Rex Tsai's personal list.
+! License: http://creativecommons.org/licenses/by/4.0/
+! Feedback: https://github.com/chihchun/adblock-taiwan-filter/issues
+
+! 2016/3/28 下午5:54:27 
+||shopping.udn.com/mall/cus/cat/OutWebAd.do
+
+! 2016/4/1 下午4:21:47 http://www.plurk.com/p/lk33ao?fb_ref=Default
+www.plurk.com###adsense_info
+
+! 2016/4/1 下午4:22:02 http://www.plurk.com/p/lk33ao?fb_ref=Default
+www.plurk.com##.adsense
+
+! 2016/4/1 下午4:24:03 http://www.plurk.com/p/lk33ao?fb_ref=Default
+www.plurk.com##.native-ads
+
