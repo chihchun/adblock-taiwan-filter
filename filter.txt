@@ -17,3 +17,5 @@ www.plurk.com##.native-ads
 ! 2016/5/9 下午3:42:23
 www.buzzhand.com##.mash-lightbox-fixed.shown.small-white-dialog.mash-lightbox
 
+! 2016/5/9 下午12:47:15
+www.eepw.com.cn###coverDiv
