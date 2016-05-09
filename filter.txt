@@ -14,3 +14,6 @@ www.plurk.com##.adsense
 ! 2016/4/1 下午4:24:03 http://www.plurk.com/p/lk33ao?fb_ref=Default
 www.plurk.com##.native-ads
 
+! 2016/5/9 下午3:42:23
+www.buzzhand.com##.mash-lightbox-fixed.shown.small-white-dialog.mash-lightbox
+
